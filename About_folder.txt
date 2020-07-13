@@ -1,0 +1,6 @@
+Description: Course exercise files from "Learning Terraform"
+Platform: LinkedIN Learning
+By: Adron Hall
+Released: May 22,2018
+Started on: July 7,2020
+Completed On:<TBA>
